@@ -1,0 +1,1 @@
+The aim of the project is to build a predictive model to assist healthcare professionals and enhance patient care , this is a web application build using python and streamlit, streamlit is a library used to create web applications.
